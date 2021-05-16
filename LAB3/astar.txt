@@ -1,0 +1,5 @@
+a line with an a in a in the start of the sentence.
+
+line with no a in the beginning or the end of the line.
+
+ohhh guess what is line ends with? a.
